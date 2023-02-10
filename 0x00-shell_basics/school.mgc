@@ -1,2 +1,2 @@
 #!/bin/bash
- /etc/magic file school.mgc > 0
+ /etc/magic file > 0
